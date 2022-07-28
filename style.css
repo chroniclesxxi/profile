@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(158, 169, 180);
+    color: #38383b;
+    margin-top: 100px;
+}
+
+img {
+    border: 5px solid #38383b;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.texts {
+    font-size: 15px;
+    font-family: Consolas, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+input {
+    width: 170px;
+    height: 16px;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+button {
+    width: 175px;
+    height: 40px;
+    background-color: #7878a7;
+    border-radius: 5px;
+    border-color: #38383b;
+    color: #1f1f22;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+}
